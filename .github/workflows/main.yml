@@ -1,0 +1,8 @@
+            - name: Scala CLA
+  # You may pin to the exact commit or the version.
+  # uses: scala/cla-checker@676e6372670c00e91eb1327068fda1e8054787ba
+  uses: scala/cla-checker@v1.0.0
+  with:
+    # The Github username of the author.
+    author: 
+          
